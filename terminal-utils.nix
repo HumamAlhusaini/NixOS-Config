@@ -12,9 +12,10 @@
     git
     neofetch
     htop
-    nushell
     starship
     carapace
   ];
   programs.tmux.enable = true;
+
+  users.defaultUserShell = pkgs.nushell;
 }
