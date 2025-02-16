@@ -14,8 +14,8 @@
     htop
     starship
     carapace
+    zellij
   ];
-  programs.tmux.enable = true;
 
   users.defaultUserShell = pkgs.nushell;
 }
