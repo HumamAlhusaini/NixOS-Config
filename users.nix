@@ -12,5 +12,6 @@
     kate
     #thunderbird
     ];
+    useDefaultShell = true;
   };
 }
