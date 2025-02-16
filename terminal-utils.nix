@@ -15,6 +15,8 @@
     starship
     carapace
     zellij
+    lazygit
+    fd
   ];
 
   users.defaultUserShell = pkgs.nushell;
