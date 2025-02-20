@@ -17,6 +17,7 @@
     zellij
     lazygit
     fd
+    unzip
   ];
 
   users.defaultUserShell = pkgs.nushell;
