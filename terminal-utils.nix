@@ -6,7 +6,7 @@
     neovim
     wget
     curl
-    ghostty
+    kitty
     ripgrep
     fzf
     git

@@ -6,10 +6,9 @@
     wofi
     clipse
     waybar
-    rose-pine-cursor
-    rose-pine-hyprcursor
-    nwg-look
     hyprpaper
-    xdg-desktop-portal-hyprland
+    brightnessctl
+    grim
+    slurp
     ];
   }

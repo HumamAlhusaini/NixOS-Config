@@ -22,6 +22,7 @@
       ./nix-settings.nix
       ./terminal-utils.nix
       ./hyprland.nix
+      ./virtualization.nix
      ];
     };
   };
