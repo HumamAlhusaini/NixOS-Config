@@ -4,7 +4,7 @@
     environment.systemPackages = with pkgs; [
     nnn
     wofi
-    clipse
+    wl-clipboard
     waybar
     hyprpaper
     brightnessctl
