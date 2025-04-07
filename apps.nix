@@ -5,8 +5,11 @@
   environment.systemPackages = with pkgs; [
   firefox
   discord
-  coq
-  coqPackages.coqide
   gcc
+  opam
+  # opam dependencies
+  pkg-config
+  gmp
+  gnumake
     ];
   }
